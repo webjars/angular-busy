@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-busy</artifactId>
-    <version>4.1.1</version>
+    <version>4.1.2-SNAPSHOT</version>
     <name>angular-busy</name>
     <description>WebJar for angular-busy</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/angular-busy</url>
         <connection>scm:git:https://github.com/webjars/angular-busy.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angular-busy.git</developerConnection>
-        <tag>angular-busy-4.1.1</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
